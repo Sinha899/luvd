@@ -1,0 +1,90 @@
+header{
+    background-color: teal;
+    color:beige;
+    padding: 20px;
+}
+#logo{
+    font-family: 'Tektur', cursive;
+    font-size: 25px;
+}
+#s1{
+    margin-left: 570px;
+    font-size: 33px;
+}
+#images{
+    margin-left: 550px;
+}
+#i1{
+    padding-right: 2px;
+}
+.headliner{
+    border: 10px;
+    width: auto;
+    height: 25px;
+    background-color: beige;
+    color:navy;
+    text-align: center;
+}
+del{
+    color:red;
+}
+li{
+    display: inline-block;
+    padding: 25px;
+    border: 3px solid navy;
+    background-color: beige
+    ;
+    border-radius: 25px;
+    width: 175px
+    ;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: navy;
+}
+nav{
+    text-align: center;
+    background-color: teal;
+}
+li:hover{
+    background-color: aqua;
+    color:navy;
+}
+.product{
+width: 320px;
+height: 360px;
+border: 3px solid navy; 
+text-align: center;
+padding: 5px;
+background-color: beige;
+display: inline-block;
+}
+button{
+    width: 200px;
+    height: 60px;
+    background-color: teal;
+    color:white;
+}
+button:hover{
+    background-color: cyan;
+    color:white;
+}
+h1{
+    font-size: 35px;
+    font-family: 'Righteous', cursive;
+}
+body{
+    background-color: bisque;
+}
+section{
+    text-align: center;
+}
+footer{
+    background-color: teal;
+    color: beige;
+    padding: 20px;
+    border: 5px solid navy;
+    margin: 5px;
+    text-align: center;
+}
